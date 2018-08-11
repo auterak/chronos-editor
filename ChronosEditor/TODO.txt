@@ -1,0 +1,6 @@
+﻿[ ]   Rework GUI
+[ ]   Parallelize more code
+[ ]   Optimalize code
+[ ]   Implement option to freeze document, i.e. document is converted into form, that cannot be changed
+[ ]   Implement XPath like links
+[ ]   Implement relative links (value from links handled only if the document is being exported or freezed)
